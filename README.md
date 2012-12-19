@@ -10,3 +10,11 @@ Example of Node Webkit work with local Json single file (https://github.com/feli
 3. Rename `node-webkit-db-demo.zip` to `node-webkit-json-db-demo.nw`
 4. Start application: `nw.exe node-webkit-json-db-demo.nw`
 5. Note `data.db` file - simple store json data.
+
+
+Miminum files to work in folder:
+
+* icudt.dll
+* nw.pak
+* nw.exe
+* node-webkit-json-db-demo.nw
